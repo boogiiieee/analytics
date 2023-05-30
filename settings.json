@@ -1,0 +1,17 @@
+{
+  "options": {
+    "text": "Химическое образование",
+    "area": 1255,
+    "per_page": 50,
+    "professional_roles": []
+  },
+  "refresh": false,
+  "num_workers": 2,
+  "save_result": true,
+  "rates": {
+    "USD": 0.0125,
+    "EUR": 0.0116,
+    "UAH": 0.461,
+    "RUR": 1
+  }
+}
